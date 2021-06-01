@@ -1,0 +1,29 @@
+  //pedir a opção do jogador
+    /*
+     * se p0 = p1 estiver ocupado = p2
+     * se p0 = p2 estiver ocupado = p1
+     * se p1 = p0 estiver ocupado = p2
+     * se p1 = p2 estiver ocupado = p0
+     *
+     * se p3 e p4 estiver ocupado = p2
+     * se p3 e p2 estiver ocupado = p4
+     * se p4 e p3 estiver ocupado = p2
+     * se p4 e p2 estiver ocupado = p4
+     *
+     *
+     * se p3 = p2 estiver ocupado e o p4 estiver ocupado = não da pra mexer
+     * se p4 = p2 estiver ocupado e p3 estiver ocupado = não da pra mexer
+     * vermelho vence
+     *
+     * se p0 = -p1 estiver ocupado e p2 estiver ocupado = não da pra mover
+     * se p1 = p0 estiver ocupado e p2 estiver ocupado = não da pra mover
+     * amarelo vence
+     *
+     *
+     * se a primeira bolinha estiver bloqueada só pode andar com a segunda e coloca no ponto vazio
+     * se b1 não estiver bloqueada e a b2 também não então:
+     *
+     *
+     *
+     * se
+     */
